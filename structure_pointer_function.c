@@ -28,3 +28,4 @@ void display(struct student *a)
     printf("\nStudent roll number = %d", a->roll);
     printf("\nStudent marks = %.2f", a->marks);
 }
+
