@@ -28,3 +28,4 @@ void display(int a, float b)
     printf("\nStudent roll number: %d", a);
     printf("\nStudent marks: %.2f", b);
 }
+
